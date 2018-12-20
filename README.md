@@ -12,8 +12,7 @@ The code given can use for preprocessing of EEG signals.
 3.Notch Filtering --> To remove the noise effect due to surrounding device - mainly in 50Hz or 60Hz.
 
 
-4.Bandpass filtering --> Better to apply an High Pass Filter and then an Low Pass Filter instead of a single Band Pass Filtering.      
-               that is more effective.
+4.Bandpass filtering --> Better to apply an High Pass Filter and then an Low Pass Filter instead of a single Band Pass Filtering.     that is more effective.
                
                
 5.Save the file
