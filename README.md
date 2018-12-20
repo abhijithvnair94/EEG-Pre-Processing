@@ -18,6 +18,6 @@ The code given can use for preprocessing of EEG signals.
 5.Save the file
 
 ### Note: 
-    Its a simple preprocessing methods that can be used for EEG signals. I used only 4 electrodes O1,O2,P7 and P8 for project purpose. Also data can't be revealed now. Later I will. 
+    Simple preprocessing methods that can be used for EEG signals. I used only 4 electrodes O1,O2,P7 and P8 for project purpose. Also data can't be revealed now. Later I will. 
     
  Thank you!!!:)
